@@ -305,6 +305,48 @@ Nada de plantillas de Canva.
 
 ---
 
+# ESTRUCTURA ESTÁNDAR DE CARRUSEL (10 SLIDES)
+
+Esta es la plantilla de referencia oficial de Marga. Todo carrusel nuevo debe seguir esta anatomía, salvo que se pida explícitamente algo distinto.
+
+## Anatomía fija de cada slide
+
+- **Número de slide:** círculo rosa empolvado (#E3A9AC) en la esquina superior izquierda, número en blanco, tipografía bold. Presente en TODAS las slides, del 1 al 10 (o al total que tenga el carrusel).
+- **Fondo base:** blanco crema (#FBF6EE), con una mancha/círculo orgánico sutil color arena o rosa muy pálido detrás del avatar (nunca detrás del texto).
+- **Avatar:** siempre a la derecha, ocupando su franja vertical, nunca más del 25% del ancho total (regla de AVATAR). Pose distinta en cada slide, coherente con el contenido de esa slide (apuntando, pensando, escribiendo, sosteniendo algo, celebrando, cargando a su bebé, etc.) pero SIEMPRE la misma identidad (ver AVATAR REFERENCIA VISUAL).
+- **Texto:** siempre a la izquierda, alineado arriba, tipografía bold tipo Anton/condensada para el titular, una sola palabra o frase corta resaltada en color (amarillo mantequilla #F3D272 en fondo, o texto en rosa/terracota) — nunca más de un elemento llamativo por slide (REGLA DE COLOR).
+- **Subrayado a mano:** trazo curvo tipo "subrayado orgánico" en rosa/coral debajo de palabras clave, usado con moderación (1 por slide como máximo).
+- **Firma de pie de página:** barra oscura tipo pill, presente en TODAS las slides, con ícono + texto: "Contenido con estrategia, pensado para mamás emprendedoras como tú. 🌱 @marga.tu.amiga.digital". Es el cierre de marca que nunca debe faltar.
+
+## Secuencia narrativa estándar (los 10 momentos)
+
+1. **Hook / pregunta que detiene el scroll.** Titular grande planteando la duda o mito principal. Subtítulo corto que promete revelar la respuesta.
+2. **Mitos que frenan.** Lista de 2-3 creencias falsas con ícono de X en rojo/coral. Encabezado sobre una mancha tipo "brochazo" de color.
+3. **Realidad.** Un pill oscuro con la palabra "REALIDAD" y la reformulación correcta de la pregunta, con la parte clave resaltada en amarillo.
+4. **Preguntas de reflexión.** Checklist con ✓ verdes/oscuros, encabezado sobre fondo amarillo. Invita a la audiencia a autoevaluarse.
+5. **Insight numérico / dato memorable.** Un número gigante como protagonista visual (ej. "2"), con contexto de por qué ese número importa, y los íconos de acción social (GUARDAR / COMPARTIR / SEGUIRTE) ya insinuados aquí como refuerzo temprano.
+6. **Sistema o pasos a seguir.** Flujo vertical de 3-4 conceptos conectados por flechas, cada uno en un badge de color distinto de la paleta (chocolate, terracota, amarillo, rosa), transmitiendo progresión clara.
+7. **Plan mínimo accionable.** Tarjeta tipo checklist con 2-3 compromisos concretos y realistas (ej. "2 reels por semana", "1 carrusel por semana", "historias cada día"), cada uno con su icono.
+8. **Slide de contraste (fondo oscuro).** Rompe el patrón visual a propósito: fondo chocolate/negro, texto en blanco y amarillo, una frase corta y contundente (tipo mantra). Marca el punto de mayor impacto emocional/estratégico del carrusel — es el "momento keynote".
+9. **Historia personal / vulnerabilidad.** Slide con tono íntimo: la avatar en una escena de vida real (con su bebé, en su rutina, etc.), texto breve confesando un error de creencia o un aprendizaje genuino. Aquí es donde vive la autenticidad — "eso me pasa a mí".
+10. **Cierre + CTA.** "Si este carrusel te ayudó..." con los tres íconos de acción (❤️ Guárdalo, ➤ Compártelo, ➕ Sígueme) y una línea de agradecimiento cálida a la comunidad. Nunca un CTA agresivo de venta (ver sección CTA).
+
+## Reglas de iconografía en carrusel
+
+- Íconos siempre outline, finos, sin relleno sólido salvo el badge de color donde van montados.
+- Los íconos de acción social (guardar/compartir/seguir) deben aparecer al menos dos veces en el carrusel: una vez insinuados a mitad (slide de refuerzo) y una vez explícitos en el cierre.
+- Cada badge de icono usa un solo color de la paleta a la vez — nunca mezclar más de un color por ícono.
+
+## Qué NO hacer
+
+- No repetir la misma pose de avatar en dos slides seguidas.
+- No poner dos elementos amarillos en la misma slide.
+- No saltarse la slide de contraste oscuro ni la slide de historia personal — son las que generan guardados y conexión real, no solo las informativas.
+- No cerrar sin el CTA suave de guardar/compartir/seguir + agradecimiento.
+- No olvidar la barra de firma de marca en ninguna slide.
+
+---
+
 # TRANSICIONES VISUALES
 
 Cuando un slide continúa al siguiente:
